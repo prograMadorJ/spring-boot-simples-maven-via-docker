@@ -1,0 +1,6 @@
+/app/src/main/java/com/skell/repository/UserRepository.java
+/app/src/main/java/com/skell/controller/HelloWorld.java
+/app/src/main/java/com/skell/controller/UserController.java
+/app/src/main/java/com/skell/SkellApplication.java
+/app/src/main/java/com/skell/config/SwaggerConfiguration.java
+/app/src/main/java/com/skell/models/User.java
